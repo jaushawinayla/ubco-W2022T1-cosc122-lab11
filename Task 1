@@ -21,21 +21,21 @@
         <ul class="navbar-nav">
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               My labs!
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="file:///Users/jaushawinayla/Desktop/lab08.html">Lab 8</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab01-jaushawinayla/blob/main/activity.md">Lab 1</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab02-jaushawinayla">Lab 2</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab03-jaushawinayla">Lab 3</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab04-jaushawinayla">Lab 4</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab05-jaushawinayla">Lab 5</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab06-jaushawinayla">Lab 6</a></li>
+              <li><a class="dropdown-item" href="https://github.com/ubco-W2022T1-cosc122/lab07-jaushawinayla">Lab 7</a></li>
+              <li><a class="dropdown-item" href="https://github.com/jaushawinayla/ubco-W2022T1-cosc122-lab08">Lab 8</a></li>
+              <li><a class="dropdown-item" href="https://github.com/jaushawinayla/ubco-W2022T1-cosc122-lab09">Lab 9</a></li>
+              <li><a class="dropdown-item" href="https://github.com/jaushawinayla/ubco-W2022T1-cosc122-lab10">Lab 10</a></li>
             </ul>
           </li>
         </ul>
